@@ -1,1 +1,5 @@
-Prácticas de Paradigmas de la Programación de segundo año de ingeniería infórmatica en la Universidad de la coruña 
+                  Prácticas de Paradigmas de la Programación 
+
+  ![Image Text](https://github.com/braisgonzalezp/Private/blob/main/UDC.jpg)
+  
+ 
